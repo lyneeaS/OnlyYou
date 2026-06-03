@@ -30,8 +30,7 @@ The application is powered by a custom **Hybrid Pseudo-Random Number Generator (
 You can install the application directly on your Android device using the provided APK file.
 
 ### Direct Download
-1. Go to the **[app_debug file](https://github.com/[Your-GitHub-Username]/Only-You)** section of this repository.
-2. Download the `app_debug.apk` file.
-3. Open the file on your Android smartphone and install it (make sure to allow installation from unknown sources if prompted).
+1. Download the `app_debug.apk` file.
+2. Open the file on your Android smartphone and install it (make sure to allow installation from unknown sources if prompted).
 
 # Open the project in Android Studio and click 'Run'
